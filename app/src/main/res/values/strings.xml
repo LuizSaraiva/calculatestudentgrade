@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MediaAluno</string>
+    <string name="tx_title_calc_media">Calcular media de um aluno:</string>
+    <string name="nota_1">Nota 1:</string>
+    <string name="nota_2">Nota 2:</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="faltas">Faltas:</string>
+</resources>
